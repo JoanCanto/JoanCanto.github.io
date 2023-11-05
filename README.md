@@ -1,4 +1,7 @@
 # JoanCanto.github.io
+
+LINK TO DE WEB PAGE: https://joancanto.github.io/
+
 LINK TO FIGMA PROJECT: https://www.figma.com/file/5EI50rcFs8UmIoAtlTs4Ic/CV-Joan?type=design&node-id=0%3A1&mode=design&t=ZMXGYyQ9cfjvcVUz-1
 
 Target user profile:
